@@ -5,7 +5,7 @@ Diamonick Dunn
 This is my submission for Assignment #2.
 
 ## Description
-* All variables ae private.
+* All variables are private.
 
 * <b>Assignment_2A</b>
   * BP_Clock is a blueprint that displays the current time of day in hours:minutes:seconds.
